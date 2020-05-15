@@ -1,0 +1,32 @@
+.container{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.container-fluid{
+    font-family: 'Times New Roman', Times, serif;
+}
+.col-md-6{
+    background-image: linear-gradient(to bottom right,olive,coral,wheat,coral,orange,olive);
+    padding-bottom: 25px;
+    padding-top: 25px;
+    border-radius: 25px;
+}
+label{
+    color: #222;
+}
+.btn {
+    background-color: black;
+    width: 100%;
+    color:white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  

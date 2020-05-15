@@ -1,0 +1,33 @@
+.container{
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+body{
+    background-image: linear-gradient(darkblue,darkcyan,olive,slategrey,darkcyan,darkblue);
+}
+.container-fluid{
+    font-family: 'Times New Roman', Times, serif;
+}
+.col-md-12{
+    background-image: linear-gradient(to bottom right,olive,coral,wheat,coral,orange,olive);
+    padding-bottom: 25px;
+    padding-top: 25px;
+    border-radius: 25px;
+}
+label{
+    color: #222;
+}
+.btn {
+    background-color: black;
+    width: 100%;
+    color:white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
